@@ -2,7 +2,7 @@ VAR score = 0
 
 -> start
 === start ===
-#Location: vikctorina
+#Location: fon0
 КОСМОКОТ: Гражданин Галактики, ваша заявка рассмотрена...
 
 #Location: fon
