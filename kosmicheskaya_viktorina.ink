@@ -34,7 +34,7 @@ VAR score = 0
 -> glava_2
 
 
--> glava_2
+
 === glava_2 ===
 #Location: fon2
 
@@ -52,7 +52,7 @@ VAR score = 0
  -> glava_3
 
 
--> glava_3
+
 === glava_3 ===
 #Location: fon3
 Текущий счет: {score}
@@ -66,7 +66,7 @@ VAR score = 0
  ~ score = score + 1 // добавилось 1 очко за правильный ответ
   -> glava_4
 
--> glava_4
+
 === glava_4 ===
 #Location: fon4
 Текущий счет: {score}
@@ -80,7 +80,7 @@ VAR score = 0
    КОСМОКОТ: Не верно
  -> glava_5
  
--> glava_5
+
 === glava_5 ===
 #Location: fon5
 Текущий счет: {score}
@@ -94,7 +94,7 @@ VAR score = 0
    КОСМОКОТ: Не верно
  -> glava_6
  
--> glava_6
+
 === glava_6 ===
 #Location: fon6
 Текущий счет: {score}
@@ -108,7 +108,7 @@ VAR score = 0
    КОСМОКОТ: Не верно
  -> glava_7
 
--> glava_7
+
 === glava_7 ===
 #Location: fon7
 Текущий счет: {score}
@@ -122,7 +122,7 @@ VAR score = 0
    КОСМОКОТ: Ошибся.
 -> glava_8
  
--> glava_8
+
 === glava_8 ===
 #Location: fon8
 Текущий счет: {score}
@@ -136,7 +136,7 @@ VAR score = 0
    ~ score = score + 1 // добавилось 1 очко за правильный ответ
  -> glava_9
 
--> glava_9
+
 === glava_9 ===
 #Location: fon9
 Текущий счет: {score}
@@ -152,7 +152,7 @@ VAR score = 0
 -> glava_10
 
 
--> glava_10
+
 === glava_10 ===
 #Location: fon10
 Текущий счет: {score}
@@ -167,7 +167,7 @@ VAR score = 0
  -> glava_11
 
 
--> glava_11
+
 === glava_11 ===
 #Location: fon11
 Текущий счет: {score}
@@ -181,7 +181,7 @@ VAR score = 0
  -> glava_12
 
 
--> glava_12
+
 === glava_12 ===
 #Location: fon12
 Текущий счет: {score}
@@ -194,7 +194,7 @@ VAR score = 0
    КОСМОКОТ: Не верно.
  -> glava_13
 
--> glava_13
+
 === glava_13 ===
 #Location: fon13
 Текущий счет: {score}
@@ -208,7 +208,7 @@ VAR score = 0
    КОСМОКОТ: Не Верно
  -> glava_14
 
--> glava_14
+
 === glava_14 ===
 #Location: fon14
 Текущий счет: {score}
@@ -223,7 +223,7 @@ VAR score = 0
  -> glava_15
 
 
--> glava_15
+
 === glava_15 ===
 #Location: fon15
 Текущий счет: {score}
@@ -237,7 +237,7 @@ VAR score = 0
    КОСМОКОТ: Не верно
 -> glava_16
 
--> glava_16
+
 === glava_16 ===
 #Location: fon16
 КОСМОКОТ: Тест пройден. 
